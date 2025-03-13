@@ -121,3 +121,5 @@ cd has
 clear
 cd has
 cd ..
+pwd
+cd ..
