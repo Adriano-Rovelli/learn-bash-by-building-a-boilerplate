@@ -141,3 +141,12 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --help
 ls --color=auto --all
+pwd
+cd ../../..
+cd ..
+clear
+ls --color=auto
+cd /workspace/project/website
+clear
+ls --color=auto
+cd .
