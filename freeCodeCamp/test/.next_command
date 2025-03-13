@@ -115,3 +115,9 @@ clear
 ls --color=auto /
 ls --color=auto
 more index.js
+__vsc_prompt_cmd_original
+has index.js
+cd has
+clear
+cd has
+cd ..
