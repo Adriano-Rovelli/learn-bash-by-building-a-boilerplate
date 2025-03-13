@@ -104,3 +104,12 @@ src
 cd src
 ls --color=auto
 pwd
+cd
+cd src
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+cd /
+ls --color=auto
+ls --color=auto
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+clear
+ls --color=auto /
