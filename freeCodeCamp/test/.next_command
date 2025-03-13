@@ -129,3 +129,4 @@ ls --color=auto
 clear
 clear
 mkdir website
+ls --color=auto
