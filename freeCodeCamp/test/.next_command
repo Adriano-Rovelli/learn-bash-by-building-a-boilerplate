@@ -98,3 +98,4 @@ ls --color=auto
 more LICENSE-MIT
 cd /workspace/project/freeCodeCamp/node_modules/has
 more LICENSE-MIT
+clear
