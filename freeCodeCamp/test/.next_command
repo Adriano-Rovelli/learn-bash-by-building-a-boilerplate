@@ -100,3 +100,5 @@ cd /workspace/project/freeCodeCamp/node_modules/has
 more LICENSE-MIT
 clear
 ls --color=auto
+src
+cd src
