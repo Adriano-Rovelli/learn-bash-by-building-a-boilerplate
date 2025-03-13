@@ -102,3 +102,5 @@ clear
 ls --color=auto
 src
 cd src
+ls --color=auto
+pwd
